@@ -8,17 +8,17 @@ Open the " Assembler.jar " file and place the location of a text file and click 
 
 
 OPERATIONS SUPPORTED
-  	- add
-	- sub
-	- and
-	- or
-	- not
-	- nor
-	- slt
-	- addi
-	- subi
-	- andi
-	- ori
-	- slti
-	- lw
-	- sw
+  - add
+  - sub
+  - and	
+  - or
+  - not
+  - nor
+  - slt
+  - addi
+  - subi
+  - andi
+  - ori
+  - slti
+  - lw
+  - sw
