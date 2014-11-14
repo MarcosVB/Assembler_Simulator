@@ -8,7 +8,7 @@ Open the " Assembler.jar " file and place the location of a text file and click 
 
 
 OPERATIONS SUPPORTED
-  - add
+  	- add
 	- sub
 	- and
 	- or
