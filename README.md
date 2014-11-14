@@ -3,7 +3,7 @@ Assembler_Simulator
 
 INSTRUCTIONS
 
-Open the " Assembler.jar " file and place the location of a text file and click ok . The program will compile and show the result ;
+Run the "TextFrame" and place the location of a .txt file with assembly code and click ok . The program will compile and show the result ;
 
 
 
